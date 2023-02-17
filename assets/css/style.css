@@ -1,0 +1,216 @@
+.pay{
+  display: grid;
+  grid-template-columns: 20% 20%;
+  justify-content: space-around;
+  align-items: center;
+}
+
+
+
+.pay img{
+  width: 100%;
+  object-fit: cover;
+}
+
+
+.join{
+  
+    
+  background: url("../images/beacraunt.png");
+}
+
+.icon{
+  position: fixed;
+  right: -8%;
+  bottom: 20%;
+  font-size: 25px;
+  z-index: 9  ;
+  display: flex;
+  align-items: center;
+  gap: 15px ;
+  color: #ccc;
+  transform: rotate(-90deg);
+ 
+}
+.icon a{
+  transform: rotate(90deg);
+  line-height: 25px;
+  display: block;
+}
+
+.icon a:hover{
+  background-color: #4ae;
+  box-shadow: 0 0 10px #4ae;
+  color: #fff;
+  border-radius: 50%;
+}
+
+.icon p{
+  font-size: 20px;
+  line-height: 25px;
+  margin: 0;
+}
+
+
+.footer_block{
+  display: grid;
+  grid-template-columns: 30% 60%;
+  text-align: left;
+  align-items: start;
+  justify-content: space-between;
+  padding: 20px 0;
+}
+.footer_phone{
+  display: flex;
+  flex-direction: column;
+  padding-top: 20px;
+}
+
+.footer_logo p{
+    font-size: 16px;
+    text-transform: unset;
+}
+
+.social{
+  display: flex;
+  
+}
+
+.social a, .footer_phone a{
+  font-size: 20px;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  margin: 10px;
+}
+
+.btns{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  top: 15px;
+  right: 20px;
+}
+
+nav{
+  margin-right: 105px;
+}
+.langForm{
+  height: 0;
+  overflow-y: hidden;
+  padding: 0px;
+  
+  position: absolute;
+  top: 100%;
+  right: 0;
+  transition: all 0.75s;
+  padding: 0px;
+}
+
+.showForm{
+  height: 165px;
+  padding: 5px 0;
+  gap: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  background-color: rgba(22,34,57,0.95);
+}
+.langForm input{
+  display: none;
+}
+
+.langForm label, #langBtn{
+  display: flex;
+  align-items: center;
+  border: 2px solid transparent;
+  padding:5px;
+  color: #fff;
+  font-family:"Montserrat", sans-serif ;
+  font-weight: 700;
+  text-transform: uppercase;
+  gap: 3px;
+}
+#langBtn:active{
+    border: 2px solid #f5a425;
+}
+
+.langForm label:hover{
+  border: 2px solid #f5a425;
+}
+.langForm label img, #langBtn img{
+  width: 30px;
+}
+#langBtn{
+  font-size: 14px;
+  color: #fff;
+  background-color: transparent;
+}
+#langBtn:focus{
+  outline: none;
+}
+#langBtn  i{
+  margin-left: 3px;
+  transform: rotate(90deg);
+}
+
+
+
+@media only screen and (max-width:1000px){
+  .icon{
+   right: -15%;
+  }
+
+  .footer_block{
+    display: grid;
+    grid-template-columns: repeat(2, 45%);
+  }
+  a.menu-link{
+    padding: 0;
+    margin-right: 15px;
+  }
+ }
+
+ @media only screen and (max-width:950px){
+ .btns{
+  top: 10px;
+ }
+ nav{
+  margin-right: 0;
+ }
+ }
+
+
+@media only screen and (max-width:776px){
+  .icon{
+    transform: rotate(0);
+    right: 10px;
+    bottom: 10px;
+  }
+  .icon a{
+    transform: rotate(0);
+  }
+  .icon p{
+    display: none;
+  }
+
+  .footer_block{
+    display: grid;
+    grid-template-columns: 90%;
+    align-items: center;
+    text-align: center;
+  }
+  .social a, .footer_phone a{
+   justify-content: center;
+  }
+  .social{
+    padding-top: 20px;
+  }
+  .footer_phone{
+    padding-top: 20px;
+  }
+}
+
+
+

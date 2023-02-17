@@ -1,0 +1,327 @@
+[
+    {
+        "uz": "Bosh sahifa",
+        "ru": "Главная",
+        "en": "Home"
+    },
+    {
+        "uz": "Biz haqimizda",
+        "ru": "О нас",
+        "en": "About us"
+    },
+    {
+        "uz": "Joy band qilish",
+        "ru": "Бронирование",
+        "en": "Order"
+    },
+    {
+        "uz": "Xizmat ko'rsatish",
+        "en": "Service",
+        "ru": "Услуга"
+    },
+    {
+        "uz": "Aloqa",
+        "ru": "Контакт",
+        "en": "Contact"
+    },
+    {
+        "uz": "Dunyo bo'ylab unutilmas sayohatlar",
+        "ru": "Незабываемые путешествия по миру",
+        "en": "Unforgettable trips around the world"
+    },
+    {
+        "uz":"<em>Zarmina</em> Travel bilan",
+        "en":"with <em>Zarmina</em> Travel",
+        "ru":"с <em>Zarmina</em> Travel"
+    },
+    {
+        "uz":"Batafsil",
+        "ru":"Подробнее",
+        "en":"Learn More"
+    },
+    {
+        "uz": "<i class=\"fa fa-pencil\"></i>Yangi g'oyalar",
+        "ru": "<i class=\"fa fa-pencil\"></i>Новые идеи",
+        "en": "<i class=\"fa fa-pencil\"></i>New ideas"
+    },
+    {
+        "en": "Traveling is an incredible investment in yourself that you cannot overestimate. When you travel, you will meet many people, cultures and lifestyles that are very different from what you are used to.",
+        "uz": "Sayohat qilish - bu o'zingiz uchun aql bovar qilmaydigan sarmoyadir, uni qadrlay olmaysiz. Sayohat paytida siz ko'p odamlar, madaniyatlar va turmush tarzi bilan tanishasiz, ular odatdagingizdan juda farq qiladi.",
+        "ru": "Путешествие — это невероятная инвестиция в себя, которую невозможно переоценить. Когда вы путешествуете, вы встречаете множество людей, культур и образов жизни, которые сильно отличаются от того, к чему вы привыкли."
+    },
+    {
+        "uz": "<i class=\"fa fa-graduation-cap\"></i>Yangi tillar",
+        "ru": "<i class=\"fa fa-graduation-cap\"></i>Новые языки",
+        "en": "<i class=\"fa fa-graduation-cap\"></i>New languages"
+    },
+    {
+        "uz": "Ko'proq...",
+        "en": "Learn more....",
+        "ru": "Узнать больше..."
+    },
+    {
+        "uz": "Siz o'zingiz bilmagan holda yangi tillarni o'rganishingiz mumkin. Bu sizga tashrif buyurgan mamlakat tilini yoki hech bo'lmaganda yaxshi bilishingizga yordam beradi.",
+        "ru": "Вы можете изучать новые языки, даже не зная их. Это поможет вам знать язык страны, которую вы посещаете, или, по крайней мере, хорошо.",
+        "en": "You can learn new languages without even knowing them. This will help you know the language of the country you are visiting, or at least know it well."
+    },
+    {
+        "uz": "<i class=\"fa fa-book\"></i>Sayohat afzalliklari",
+        "ru": "<i class=\"fa fa-book\"></i>Преимущество в путешествии",
+        "en": "<i class=\"fa fa-book\"></i>Travel advantage"
+    },
+    {
+        "uz": "Ta'tilga, sayohatga yoki uzoq safarga biror joyga borganingizdan so'ng, hayot ssenariysida o'zgarishlar yuz beradi, unga ko'ra siz bir necha oy, hatto yillar davomida yashagansiz.",
+        "ru": "После того, как вы отправитесь куда-то в отпуск, путешествие или дальнюю поездку, произойдет смена сценария жизни, по которому вы жили месяцами, а то и годами.",
+        "en": "After you go somewhere on vacation, travel or long trip, there will be a change in the scenario of life, according to which you have been living for months or even years."
+    },
+    {
+        "en": "Cities for travel",
+        "uz": "Sayohat uchun shaharlar",
+        "ru": "Города для путешествий"
+    },
+    {
+        "ru": "Турция",
+        "en": "Turkiye",
+        "uz": "Turkiya"
+    },
+    {
+        "uz":"Dubay",
+        "en":"Dubai",
+        "ru":"Дубай"
+    },
+    {
+        "uz":"Misr",
+        "ru":"Египет",
+        "en":"Egypt"
+    },
+    {
+        "en": "Only for weekends: historical center",
+        "ru": "Только по выходным: исторический центр",
+        "uz": "Faqat dam olish kunlari uchun: tarixiy markaz"
+    },
+    {
+        "uz": "Rasmiy nomi — Turkiya Respublikasi. Poytaxti — Anqara. Hududi — 779452 km.kv. Aholisi – 87 mln kishidan ortiq (2021yil). Davlat tili — turk. Dini — islom. Pul birligi — turk lirasi.",
+        "ru": "Официальное название – Турецкая Республика. Столица Анкара. Площадь составляет 779 452 кв. км. Население – более 87 млн ​​человек (2021 г.). Государственный язык – турецкий. Религия - ислам. Валюта – турецкая лира.",
+        "en": "The official name is the Republic of Turkiye. The capital is Ankara. The area is 779,452 sq. km. Population - more than 87 million people (2021). The state language is Turkish. Religion is Islam. The currency is the Turkish lira."
+    },
+    {
+        "uz": "Ko‘chadagi deyarli har bir odam - asli dubaylik emas",
+        "en": "Almost every person on the street is not originally from Dubai",
+        "ru": "Почти каждый человек на улице не родом из Дубая."
+    },
+    {
+        "uz": "BIRLASHGAN ARAB AMIRLIKLARI (Al-Imora al-Arabiyya al-Muttahida) , BAA — Arabiston ya. o. ning sharqidagi davlat, 7 amirlik — Abu-Dabi, Dubay, Sharja, Ajman, Umm ul-Qayvayn, Al-Fujayra va Raʼs ul-Xaymadan iborat federatsiya. Fors va Ummon qoʻltiqlari sohilida joylashgan.",
+        "ru": "ОБЪЕДИНЕННЫЕ АРАБСКИЕ ЭМИРАТЫ (Аль-Имора аль-Арабия аль-Муттахида), ОАЭ — Аравия. о. страна на востоке России, федерация, состоящая из 7 эмиратов - Абу-Даби, Дубай, Шарджа, Аджман, Умм-эль-Кайвайн, Аль-Фуджейра и Рас-эль-Хайма. Он расположен на побережье Персидского и Оманского заливов.",
+        "en": "UNITED ARAB EMIRATES (Al-Imora al-Arabiyya al-Muttahida), UAE — Arabia. o. a country in the east of , a federation consisting of 7 emirates - Abu Dhabi, Dubai, Sharjah, Ajman, Umm al-Qaywain, Al-Fujairah and Ras al-Khaimah. It is located on the coast of the Persian and Oman gulfs."
+    },
+    {
+        "uz": "Xeops piramidalari - dunyoning yettita mo'jizasidan bittasi.",
+        "ru": "Пирамиды Хеопса являются одним из семи чудес света.",
+        "en": "The Pyramids of Cheops are one of the Seven Wonders of the World."
+    },
+    {
+        "uz": "Misr Arab Respublikasi Afrikaning shimoli-sharqiy qismida joylashgan. Liviya, Sudan, Isroil davlatlari bilan chegaradosh. Aholisi — 96 million kishi, arab mamlakatlari orasida aholisi eng ko‘p mamlakat. Poytaxti — Qohirada 12 million kishi yashaydi. Hududi — 1 001 450  km2. Eng yirik shaharlari — Qohira va Iskandariya.",
+        "ru": "Арабская Республика Египет расположена в северо-восточной части Африки. Граничит с Ливией, Суданом и Израилем. Население 96 миллионов человек, страна с самой большой численностью населения среди арабских стран. 12 миллионов человек живут в Каире, столице. Площадь составляет 1 001 450 км2. Крупнейшие города — Каир и Александрия.",
+        "en": "The Arab Republic of Egypt is located in the northeastern part of Africa. It borders with Libya, Sudan, and Israel. The population is 96 million people, the country with the largest population among the Arab countries. 12 million people live in Cairo, the capital. The area is 1,001,450 km2. The largest cities are Cairo and Alexandria."
+    },
+    {
+        "uz": "<em>Dunyo bo'ylab</em> maroqli va cheksiz sayohatlar <em>Zarmina Travel</em> bilan amalga oshiring. Biz siz uchun eng yaxshisini taklif qilamiz",
+        "ru": "Совершайте веселые и бесконечные путешествия <em>по миру </em> с <em>Zarmina Travel</em> Мы предлагаем лучшее для вас",
+        "en": "Make fun and endless trips <em>around the world</em>   with <em>Zarmina Travel</em>. We offer the best for you"
+    },
+    {
+        "uz": "Kun",
+        "ru": "Дни",
+        "en": "Days"
+    },
+    {
+        "uz": "Soat",
+        "en": "Hours",
+        "ru": "Час"
+    },
+    {
+        "uz": "Minut",
+        "en": "Minutes",
+        "ru": "Минуты"
+    },
+    {
+        "uz": "Sekund",
+        "ru": "Секунды",
+        "en": "Seconds"
+    },
+    {
+        "uz": "Hoziroq o'z joyingizni band qiling va <em>qaynoq</em> chegirmalarga ega bo'ling",
+        "ru": "Забронируйте место сейчас и получите <em>горячие</em> скидки",
+        "en": "Reserve your seat now and get <em>hot</em> discounts"
+    },
+    {
+        "uz": "Ism va Familiyangiz",
+        "ru": "Ваше имя и фамилия",
+        "en": "Your first and last name"
+    },
+    {
+        "uz": "Telefon raqamingiz",
+        "ru": "Ваш номер телефона",
+        "en": "Your phone number"
+    },
+    {
+        "uz": "Jo'natish",
+        "ru": "Отправить",
+        "en": "Send"
+    },
+    {
+        "uz": "Dunyo davlatlari",
+        "ru": "Страны мира",
+        "en": "Countries of the world"
+    },
+    {
+        "uz": "Dunyo mo’jizalari",
+        "ru": "Чудеса света",
+        "en": "Wonders of the world"
+    },
+    {
+        "uz":"Xabaringizni qoldiring...",
+        "en":"Write your message...",
+        "ru":"Напишите свое сообщение..."
+    },
+    {
+        "uz": "Ilk lola piyozchalari Istanbuldan keltirilgan.Turklar haqli ravishda lolani o’z mamlakat belgisi deb hisoblaydi. Lolalar festivali Turkiyada o'tqaziladi.",
+        "ru": "Первые луковицы тюльпанов были привезены из Стамбула.Турки по праву считают тюльпан символом своей страны. Фестиваль тюльпанов проводится в Турции.",
+        "en": "The first tulip bulbs were brought from Istanbul.The Turks rightfully consider the Tulip to be a sign of their country. The Tulip Festival is held in Turkiye."
+    },
+    {
+        "uz": "O'qish<i class=\"fa fa-angle-double-right\"></i>",
+        "ru": "Чтение<i class=\"fa fa-angle-double-right\"></i>",
+        "en": "Read<i class=\"fa fa-angle-double-right\"></i>"
+    },
+    {
+        "ru": "Кофе или вино",
+        "uz": "Qahva yoki vino",
+        "en": "Coffee or wine"
+    },
+    {
+        "uz": "Fransiyada siz yaxshi sharob ichishingiz va qahvadan kamroq pul to'lashingiz mumkin.Frantsuzlar qizil sharobni oqdan ko'ra ko'proq qadrlashadi.",
+        "en": "In France, you can drink good wine and pay less than coffee.The French value red wine more than white.",
+        "ru": "Во Франции вы можете пить хорошее вино и платить меньше, чем за кофе.Французы ценят красное вино больше, чем белое."
+    },
+    {
+        "uz": "Misr ehromlari",
+        "ru": "Египетские ихрамы",
+        "en": "Egyptian pyramids"
+    },
+    {
+        "uz": "Ko’pchilik piramidalar ichiga fir’avnlar ko’milgan deb o’ylaydi. Aslida fir’avnlarning dahmalari ehromning ichida emas, undan sal nariroqda Shohlar Vodiysida joylashgan.",
+        "ru": "Многие думают, что внутри пирамид похоронены фараоны. На самом деле Дахи фараонов находятся не внутри ихрама, а чуть дальше в Долине царей.",
+        "en": "Many people think that pharaohs are buried inside the pyramids. In fact, the Dakhs of the Pharaohs are not located inside the ihram, but a little further in the Valley of the Kings."
+    },
+    {
+        "uz": "Italiya taomlari",
+        "ru": "Итальянская кухня",
+        "en": "Italian cuisine"
+    },
+    {
+        "uz": "Haqiqiy italiyalik pitsa o'tinlardagi pechlarda pishiriladi. Dunyoda birinchi pitsia 'Fina Pivas' portalba deb nomlandi. 1830 yilda u Neapolni ochdi",
+        "ru": "Настоящая итальянская пицца готовится в печах на дровах. Первая в мире пицца называлась 'Fina Pivas' portalba. В 1830 году он открыл Неаполь",
+        "en": "Real Italian pizza is baked in ovens on firewood. The world's first pitsia was named 'Fina Pivas' portalba. In 1830 he opened Naples"
+    },
+    {
+        "uz": "Plyaj ixlosmandlari",
+        "en": "Beach enthusiasts",
+        "ru": "Любители пляжного отдыха"
+    },
+    {
+        "uz": "Har bir amirlikda, qirg'oqdagi qum boshqacha rangda. Masalan, unda qor-oq, Dubayda esa to'q sariq rangga ega.",
+        "ru": "В каждом эмирате песок на побережье разный по цвету. Например, он имеет белоснежный цвет, а в Дубае - оранжевый.",
+        "en": "In each emirate, the sand on the coast is different in color. For example, it has a snow-white color, and in Dubai-Orange."
+    },
+    {
+        "uz": "Gruziya mehmondo'stligi",
+        "ru": "Гостеприимство Грузии",
+        "en": "Hospitality of Georgia"
+    },
+    {
+        "uz": "Birinchidan, gurjilar o'zlari mamlakatni Sakartvelo deb atashadi. Evropada bu Gruziya, deyiladi, ammo bu nomning ichki nomi bilan hech aloqasi yo'q",
+        "en": "First, the Georgians themselves call the country Sakartvelo. In Europe, it is called Georgia, but this name has nothing to do with the internal name.",
+        "ru": "Во-первых, сами грузины называют страну Сакартвело. В Европе говорят, что это Грузия, но это название не имеет ничего общего с внутренним названием"
+    },
+    {
+        "uz": "Maldiv orollari",
+        "ru": "Мальдивы",
+        "en": "Maldives"
+    },
+    {
+        "uz": "Maldiv orollaridagi eng baland balandlik dengiz sathidan 2,3 metrga etadi. Shunisi e'tiborga loyiqki, Maldiv orollarida alpinistlar deyarli yo'q.",
+        "ru": "Самая высокая высота на Мальдивах достигает 2,3 метра над уровнем моря. Примечательно, что альпинистов на Мальдивах практически нет.",
+        "en": "The highest altitude in the Maldives reaches 2.3 meters above sea level. It is noteworthy that there are practically no climbers in the Maldives."
+    },
+    {
+        "uz": "Mehnatkash malayzialiklar",
+        "ru": "Малазийцы трудолюбивы",
+        "en": "Malaysians are hardworking"
+    },
+    {
+        "uz": "Kundalik hayotda, malayziyaliklar ko'pincha ingliz tilida gaplashadi, shuning uchun turistlar bilan muloqat qilish...",
+        "ru": "В повседневной жизни малазийцы часто говорят по-английски, поэтому общаются с туристами...",
+        "en": "In everyday life, Malaysians often speak English, so they communicate with tourists...In everyday life, Malaysians often speak English, so they communicate with tourists..."
+    },
+    {
+        "uz": "Tailandning Ginnes rekordlari",
+        "ru": "Рекорды Гиннеса Таиланда",
+        "en": "Guinness World Records of Thailand"
+    },
+    {
+        "uz": "Tailandda Buddaning eng katta oltin haykali, eng yirik timsoh fermasi, eng katta restoran va eng baland mehmonxona joylashgan.",
+        "ru": "В Таиланде находится самая большая золотая статуя Будды, самая большая крокодиловая ферма, самый большой ресторан и самый высокий отель.",
+        "en": "Thailand has the largest golden Buddha statue, the largest crocodile farm, the largest restaurant and the tallest hotel."
+    },
+    {
+        "uz": "Yakshanba dam olish kuni",
+        "ru": "Воскресенье выходной",
+        "en": "Sunday is a day off"
+    },
+    {
+        "uz": "Mamlakatdan Markaziy Yevropa yo'llarining sifati bilan butun dunyoga mashhur. Qizig'i shundaki, mashhur avtobanlarda nafaqat...",
+        "ru": "Страна известна во всем мире качеством центральноевропейских дорог. Интересно, что не только в популярных автобусах...",
+        "en": "The country is known worldwide for the quality of Central European roads. Interestingly, not only in popular buses..."
+    },
+    {
+        "uz": "Shveytsariya tillari",
+        "ru": "Швейцарские языки",
+        "en": "Swiss languages"
+    },
+    {
+        "uz": "Shveytsariya to'rtta rasmiy tilga ega: fransuz, nemis, italyan va retroroman (lotincha). Mamlakat aholisining qariyb...",
+        "ru": "В Швейцарии четыре официальных языка: французский, немецкий, итальянский и ретророманский (латынь). Почти половина населения страны...",
+        "en": "Switzerland has four official languages: French, German, Italian and Retro-Romansh (Latin). Almost half of the country's population..."
+    },
+    {
+        "uz": "Dunyo bo'ylab cheksiz sayohat",
+        "ru": "Бесконечное путешествие по миру",
+        "en": "An endless journey around the world"
+    },
+    {
+        "uz": "Dunyoga o'zgacha nigoh<em>  Zarmina travel bilan!</em>",
+        "ru": "Особый взгляд на мир<em> с Zarmina travel!</em>",
+        "en": "A special view of the world<em> with Zarmina travel!</em>"
+    },
+    {
+        "uz": "Barcha sayohatlarning afzalliklari bor. Agar sayohatchisi yaxshi sharoitda bo'lgan mamlakatlarga tashrif buyursa, u o'zini qanday yaxshilashni o'rganishi mumkin. Agar boylik uni yomonroq joylarga olib boradigan bo'lsa, ehtimol u uyidagi narsasidan zavq olishni o'rganar<br><br>Biz go'zallik, joziba va sarguzashtlarga boy ajoyib dunyoda yashayapmiz. Sarguzashtlarni ko'zlarimiz bilan ochib izlayotgan ekanmiz, ularning chegarasi yo'q",
+        "ru": "У всех поездок есть свои преимущества. Если путешественник посещает страны с хорошими условиями, он может научиться улучшать себя. Если богатство приведет его в худшие места, он, вероятно, научится получать удовольствие от того, что у него дома<br><br> мы живем в удивительном мире, полном красоты, очарования и приключений. Пока мы ищем приключения с открытыми глазами, им нет предела",
+        "en": "All trips have their advantages. If a traveler visits countries with good conditions, he can learn to improve himself. If wealth takes him to worse places, he will probably learn to enjoy what he has at home.<br><br> we live in an amazing world full of beauty, charm and adventure. While we are looking for adventures with our eyes open, there is no limit to them"
+    },
+    {
+        "uz": "Sayohatlar",
+        "ru": "Путешествия",
+        "en": "Journeys"
+    },
+    {
+        "uz": "O'z joyingizni band qiling!",
+        "en": "Take your place!",
+        "ru": "Занимайте свое место!"
+    },{
+        "uz":"Xohlagan turda to'lov qiling",
+        "en":"Pay the way you want",
+        "ru":"Платите так, как хотите"
+    }
+    
+]
